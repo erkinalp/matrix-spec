@@ -115,6 +115,10 @@ If the join reason field is present, clients should pre-populate the reason
 field in the join or knock request with this value, allowing the user to
 modify it before sending.
 
+#### Server behaviour
+
+This feature is purely client-side. Server-side part of the joining process follows the usual process.
+
 #### Paper layout specifications
 
 Unlike ICAO Doc 9303/IATA BCBP and TAP TSI standards which allow considerable
