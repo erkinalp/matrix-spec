@@ -4001,3 +4001,4 @@ systems.
 {{% cs-module name="Event annotations and reactions" filename="event_annotations" %}}
 {{% cs-module name="Threading" filename="threading" %}}
 {{% cs-module name="Reference relations" filename="reference_relations" %}}
+{{% cs-module name="Printable room tickets" filename="printable_room_tickets" %}}
